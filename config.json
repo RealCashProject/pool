@@ -25,7 +25,7 @@
         "ports": [
             {
             "port": 3334,
-            "difficulty": 100
+            "difficulty": 100,
             "desc": "Low end hardware" 
         },
         {
