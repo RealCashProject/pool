@@ -1,12 +1,3 @@
-
-
-/*
-
-This script converts the block data in redis from the old format (v0.99.0.6 and earlier) to the new format
-used in v0.99.1+
-
-*/
-
 var util = require('util');
 
 var async = require('async');
