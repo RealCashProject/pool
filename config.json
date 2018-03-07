@@ -94,7 +94,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "test"
+        "password": "your_password"
     },
 
     "daemon": {
