@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "RL1n56fgd9khfSyjaUkgC47h8PSUR2RSP6M2Ss67MNP8BMHr1CSxisfKZioqkJw2orE9f9QZDwvvijbMNXMjKAnt1AWHP4bQ6",
+        "poolAddress": "RL3BGq6hjb2S3Uapoh6BohLY4JLDPBF4MisCQYkFTEdGWjS2kfHp4psRbHoPm4FCjGGfE86Shco2aeASnRFCfhBv3CE7ooNw3",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -91,15 +91,15 @@
         "enabled": true,
         "hashrateWindow": 600,
         "updateInterval": 5,
-        "port": 8117,
+        "port": 8805,
         "blocks": 30,
         "payments": 30,
-        "password": "your_password"
+        "password": "pool"
     },
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 15003
+        "port": 9998
     },
 
     "wallet": {
